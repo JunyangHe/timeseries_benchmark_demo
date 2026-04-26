@@ -1,0 +1,12 @@
+{
+  "model_name": "",
+  "model_link": "",
+  "task_type": "",
+  "target_variable": "",
+  "input_mode": "",
+  "lookback_window": null,
+  "forecast_horizon": null,
+  "evaluation_metric": "rmse",
+  "execution_environment": "",
+  "model_parameters": {}
+}

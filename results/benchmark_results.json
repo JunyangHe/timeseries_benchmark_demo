@@ -1,0 +1,10 @@
+{
+  "dataset_name": "",
+  "model_name": "",
+  "target_variable": "",
+  "lookback_window": null,
+  "forecast_horizon": null,
+  "model_parameters": {},
+  "rmse": null,
+  "notes": ""
+}

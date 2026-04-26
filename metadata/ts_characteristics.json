@@ -1,0 +1,8 @@
+{
+  "number_of_observed_streams": null,
+  "number_of_target_streams": null,
+  "number_of_exogenous_streams": null,
+  "number_of_exogenous_static_variables": null,
+  "number_of_instances": null,
+  "data_modality": "numerical"
+}
